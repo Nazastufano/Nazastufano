@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="160" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" height="180" />
   <h1 align="center">👋 Hola, soy @Nazastufano 👋</h1>
   <h3 align="center"> Un apasionado desarrollador fullstack de Argentina. Me gusta desarrollar paginas web y videojuegos, siempre busco aprender más sobre los lenguajes de programación y las implementaciones que pueden llegar a tener.
   </h3>
