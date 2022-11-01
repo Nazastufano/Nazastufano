@@ -13,7 +13,7 @@
 
 ---
 
-  ### Sobre Mi:
+  ### 👨‍💻 Sobre Mi:
   - 👀 
   - 🌱 Actualmente estoy aprendiendo HTML, CSS, JavaScript, Java, y en referencia al desarrollo de videojuegos utilizo la plataforma Godot
   - 📚 En la actualidad me encuentro estudiando Ingeniería en la Informatica. Sin embargo, siempre estoy aprendiendo nuevas funcionalidades y algún nuevo lenguaje de programación en el que esté interesado, fuera de los estudios de la carrera.
